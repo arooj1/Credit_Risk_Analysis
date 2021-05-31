@@ -1,7 +1,22 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis
 ## Overview of the analysis:
-Analyzing and evaluating machine learning algorithms perofrmance.
+
+Purpose of this exercise is to evaluate credit card risk analysis for the loan purposes. Unfortunately, there is very less data related to the risky loan situation and plenty for the good credit. 
+
+![sumary](Images/summary.JPG)
+
+
+
+
+### Evaluation Tools:
+
+Through this excercise, various strategies related to unbalanced datasets are used and evaluated in term of 
+- Precision
+- Recall
+- Accuracy
+- Confusion Matrix. 
 
 ## Results: 
 
 ## Summary
+ 
