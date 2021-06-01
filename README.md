@@ -27,17 +27,16 @@ Through this excercise, various strategies related to unbalanced datasets are us
 
 ![Evaluation](Images/Evaluation_Summary.JPG)
 
-- It is evident from the results that `accuracy` along cannot be considered a valid model evaluation as it is more or less the same for all strategies and models. 
-- 
+- It is evident from the results that all data balancing strategies' (undersampling and oversampling) `accuracy` alone cannot be considered a valid model evaluation as it is more or less the same for all of them.
+
+- Unbalanced emsemble models have out performed sampling techniques with logistic regression. (Accuracy increased to 75/% and 93/%). 
+- Easy Emsemble Classifier has out performed all of the tried strategies and model. 
+- For this specific case it is important to have a reliable results for `highrisk` loan cases (High Recall for `highrisk` category). Again EasyEnsembleClassifier has shown quite outstanding results with Recall close to 92/%.  
 
 
 ![EvaluationGraph](Images/Evaluation_Summary_graph.JPG)
 
 
-
-
-
 ## Summary
-
-
+It is critical to select unbalanced ensemble classifiers and data balancing strategies while handling imbalanced datasets. I strongly believe that in this scenario not just rely on the accuracy of the model but `recall` and `precision` to get the better performance picture. 
  
