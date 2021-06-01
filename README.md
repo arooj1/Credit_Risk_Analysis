@@ -1,7 +1,7 @@
 # Credit Risk Analysis
 ## Overview of the Analysis:
 
-Purpose of this exercise is to evaluate credit card risk analysis for the loan purposes. Unfortunately, there is very less data related to the risky loan situation and plenty for the good credit. 
+Purpose of this exercise is to evaluate credit card risk analysis for the loan purposes. Unfortunately, there is very less data related to the risky loan situation and plenty for the good credit. It has been observed that `easyensembleclassifier` has out performed all other strategies and model by giving high recall of 92/% for `highrisk` loans and overall accuracy of 93/%. 
 
 ![summary](Images/summary.jpg)
 
@@ -23,13 +23,21 @@ Through this excercise, various strategies related to unbalanced datasets are us
 
 ## Results: 
 
+### Findings:
+
 ![Evaluation](Images/Evaluation_Summary.JPG)
 
-![Evaluation](Images/Evaluation_Summary_graph.JPG)
+- It is evident from the results that `accuracy` along cannot be considered a valid model evaluation as it is more or less the same for all strategies and models. 
+- 
+
+
+![EvaluationGraph](Images/Evaluation_Summary_graph.JPG)
 
 
 
 
 
 ## Summary
+
+
  
