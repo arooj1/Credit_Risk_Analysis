@@ -3,7 +3,7 @@
 
 Purpose of this exercise is to evaluate credit card risk analysis for the loan purposes. Unfortunately, there is very less data related to the risky loan situation and plenty for the good credit. 
 
-![sumary](Images/summary.JPG)
+![summary]("Images/summary.JPG")
 
 
 
