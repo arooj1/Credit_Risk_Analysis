@@ -6,6 +6,10 @@ Purpose of this exercise is to evaluate credit card risk analysis for the loan p
 ![summary](Images/summary.jpg)
 
 
+### Data Distribution per class 
+
+![y_labels](Images/Labels.JPG)
+
 ### Data Cleaning:
 It is important to prepare the dataset for the training purposes. Besides all basic data cleaning (code already existed), oneHotEncoding for the categorical data is done using `pd.dummies` function. 
 
@@ -18,6 +22,14 @@ Through this excercise, various strategies related to unbalanced datasets are us
 - Confusion Matrix. 
 
 ## Results: 
+
+![Evaluation](Images/Evaluation_Summary.JPG)
+
+![Evaluation](Images/Evaluation_Summary_graph.JPG)
+
+
+
+
 
 ## Summary
  
